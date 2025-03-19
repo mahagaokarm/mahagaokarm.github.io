@@ -1,0 +1,11 @@
+---
+layout: post
+title: Logic Function Design in Cadence
+description: Implemented f = !A!C + !B!C + A!B in physical layout 
+skills: 
+- Cadence Virtuoso
+- VLSI Design
+- Digital logic design
+- Circuit analysis
+main-image: /project.webp 
+---
