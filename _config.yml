@@ -13,7 +13,7 @@ title: Meenakshi Mahagaokar's Portfolio # This is what shows up in the tab of th
 
 # Hero Section
 name: Meenakshi Mahagaokar
-headline: headline message
+headline: Recent Electrical Engineer Graduate | Passionate about Circuit Design, Embedded Systems, and IC Design
 description: >- # dont remove this line. this will ignore all new lines until the next section
   Write an awesome intro and discuss your highlights and qualifications. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -72,7 +72,7 @@ skills:
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-formspree-key:   https://formspree.io/f/{8-digit key}
+formspree-key:   https://formspree.io/f/mqapelvg
 
 
 
