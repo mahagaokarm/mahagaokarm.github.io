@@ -8,3 +8,9 @@ skills:
 - State Space models
 main-image: /project.webp 
 ---
+
+### Free Body and Electrical Diagrams
+{% include image-gallery.html images="FBD.png" height="400" %}  
+$m_p\ddot{y} = mg - F_M$  where $m_p = 0.003$ kg
+
+
